@@ -1,0 +1,64 @@
+{
+  "inscriptions": [
+    {
+      "nomPrenoms": "Sakina",
+      "telephone": "23467845",
+      "email": "abdouldevelop@gmail.com",
+      "formation": "REACT JS",
+      "dateCall": "2023-03-24T00:00:00.000Z",
+      "modeSuivi": "Présentiel",
+      "anneExp": 1,
+      "id": 3
+    },
+    {
+      "nomPrenoms": "CAM",
+      "telephone": "23467845",
+      "email": "abdouldevelop@gmail.com",
+      "formation": "HTML5/CSS3",
+      "dateCall": "2023-03-18T00:00:00.000Z",
+      "modeSuivi": "En ligne",
+      "anneExp": 3,
+      "id": 4
+    },
+    {
+      "nomPrenoms": "camara ismael",
+      "telephone": "23467845",
+      "email": "abdouldevelop@gmail.com",
+      "formation": "JAVASCRIPT",
+      "dateCall": "2023-03-24T00:00:00.000Z",
+      "modeSuivi": "Présentiel",
+      "anneExp": 5,
+      "id": 5
+    },
+    {
+      "nomPrenoms": "ISMALE AKA",
+      "telephone": "2334556788",
+      "email": "AB@Y.TM",
+      "formation": "ANGULAR",
+      "dateCall": "2023-03-24T00:00:00.000Z",
+      "modeSuivi": "Présentiel",
+      "anneExp": 2,
+      "id": 6
+    },
+    {
+      "nomPrenoms": "camara abdoul-karim",
+      "telephone": "0759596128",
+      "email": "abdouldevelop@gmail.com",
+      "formation": "ANGULAR",
+      "dateCall": "2023-03-17T00:00:00.000Z",
+      "modeSuivi": "En ligne",
+      "anneExp": 10,
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
